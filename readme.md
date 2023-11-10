@@ -64,8 +64,5 @@ This is a simple URL shortener API built with Node.js, Express.js, and MongoDB. 
 | Tier-based Requests | Requests are tier-based. For example, Tier 1 users can make 1000 requests, and Tier 2 users can make 100 requests. | ✅ Implemented |
 | User-Preferred URL | Creation of a user-preferred URL is recommended over a random URL (not mandatory). | ✅ Implemented |
 
-- ✅ Implemented: The feature is implemented and functioning.
-- ⚠️ Partially Implemented: The feature is partially implemented, and further adjustments may be needed.
-- ❌ Not Implemented: The feature is not implemented.
 
 Acess to test api throught postman : https://api.postman.com/collections/12076549-15ac0635-7caa-44e0-9c89-95a404bbcce3?access_key=PMAT-01HEX92758VFNDZE6PC5PEXMJ6# TramGlobal_BackendAssignment
